@@ -1,0 +1,19 @@
+# Ficheiros temporários de verificação
+_check.js
+_smoke.js
+_extract.ps1
+_*.js
+_*.ps1
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
